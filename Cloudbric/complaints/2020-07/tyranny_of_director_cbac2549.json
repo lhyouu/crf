@@ -15,18 +15,18 @@
 	    ]
 	},
 	{
-		"type": "relationship",
-		"spec_version": "0.1",
+        "type": "relationship",
+        "spec_version": "0.1",
         "id": "relationship--860e0845-9c43-4eff-893b-ac376322d197",
         "created_by_ref": "identity--8189b82f-1274-4af3-bb6b-161a749c8e5a",
-	    "created": "2020-07-11T14:16:30.000Z",
-	    "modified": "2020-07-11T14:16:30.000Z",
-	    "source_ref": "complaint--cbac2549-a025-4145-9812-e46ef22353db",
-	    "target_ref": "identity--49fb8402-d406-4d7b-848c-1e94fe446f83"
-	},
-	{
-		"type": "idnetity",
-		"spec_version": "0.1",
+        "created": "2020-07-11T14:16:30.000Z",
+        "modified": "2020-07-11T14:16:30.000Z",
+        "source_ref": "complaint--cbac2549-a025-4145-9812-e46ef22353db",
+        "target_ref": "identity--49fb8402-d406-4d7b-848c-1e94fe446f83"
+    },
+    {
+        "type": "idnetity",
+        "spec_version": "0.1",
         "id": "identity--49fb8402-d406-4d7b-848c-1e94fe446f83",
         "identity_class": "individual",
         "roles": ["director"]
